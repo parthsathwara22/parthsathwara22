@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Sathwara</h1>
-<h3 align="center">I build systems using Python</h3>
+<h3 align="center">A passionate python developer from india</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsathwara22&label=Profile%20views&color=0e75b6&style=flat" alt="parthsathwara22" /> </p>
 
 - 📫 How to reach me **parthsathwara13@gmail.com**
 
